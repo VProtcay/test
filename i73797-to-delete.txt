@@ -1,0 +1,1 @@
+Temporary file for I-73797 delete-on-sync test.
